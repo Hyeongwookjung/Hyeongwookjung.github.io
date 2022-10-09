@@ -115,7 +115,7 @@ content:
         title: Ajou University
         caption: 2019 - 2022
         sub_title: Convergence Systems Engineering
-        quote: >
+        quote: > 
           Project: Analysis of shopping trends using e-commerce data
         description: | # this will include new lines to allow paragraphs
           - Using Machine Learning to Create a Model for Forecasting Sales and Competitive Strength by Category
