@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: Hyeongwookjung/e-commerce_analysis_platform
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Hyeongwook Jung
-title: Data Analyst +4 years
+title: Data Analyst +3.5 years
 email: ekam3d@gmail.com
-website: https://hyeongwookjung.github.io/
+website: https://github.com/Hyeongwookjung
 
 # Dark Mode (true/false/never)
 darkmode: false
